@@ -9,7 +9,7 @@ Defensive file arrival monitor for Windows
 - Quarantines high-score files
 - Writes JSON lines log
 
-Run:
+Run:...
 powershell -ExecutionPolicy Bypass -File .\ZeroClick-Guard.ps1
 #>
 
